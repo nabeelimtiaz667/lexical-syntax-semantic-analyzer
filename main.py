@@ -1,6 +1,6 @@
 from c_lexer import lexer
 from c_parser import parser
-from semantic_analyzer import SemanticAnalyzer
+from c_semantic_analyzer import SemanticAnalyzer
 
 file_path = "sourceCode-C-lang.txt"
 
