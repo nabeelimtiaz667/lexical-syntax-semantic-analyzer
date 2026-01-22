@@ -11,4 +11,5 @@ OVERVIEW:
     Produced block-level Symbol Table. (c_semantic_analyzer.py)
 
 INSTRCUTION:
-Run main.py
+- Run main.py
+- The C Code is stored in sourceCode-C-lang.txt. Feel free to make changes by delibrately including errors to generate erros at all three lexical, syntax, and semantic levels.
